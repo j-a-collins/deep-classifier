@@ -10,10 +10,11 @@ The model is built using Fastai and then deployed as a Gradio app. To use the cl
 1. Make sure you have Python 3.6 or higher installed on your machine. You can download the latest version of Python from the [official website](https://www.python.org/downloads/).
 
 2. Install the required packages:
-'''pip install fastai gradio'''
+    pip install fastai gradio
 
-3. Clone this repository: git clone https://github.com/yourusername/cat-dog-classifier.git
-cd cat-dog-classifier
+3. Clone this repository:
+    git clone https://github.com/yourusername/cat-dog-classifier.git
+    cd cat-dog-classifier
 
 
 ## Build the Model
@@ -24,7 +25,8 @@ cd cat-dog-classifier
 
 ## Deploy the Gradio App
 
-1. Run the `deploy.py` script to launch the Gradio app: python deploy.py
+1. Run the `deploy.py` script to launch the Gradio app:
+    python deploy.py
 
 This will start a local server and provide you with a URL to access the app in your web browser.
 
