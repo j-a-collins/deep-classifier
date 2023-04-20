@@ -1,5 +1,5 @@
 # Deep classifier.
-A repo for deploying my teeny tiny neural net trained to classify images as either dogs or cats, or neither.
+A repo for deploying my _teeny tiny_ neural net trained to classify images as either dogs or cats, or neither.
 
 ![CatDog GIF](classifier.gif)
 
