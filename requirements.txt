@@ -1,5 +1,5 @@
-gradio
 fastai
+fastcore
 fastbook
-requests
-gunicorn
+gradio
+Pillow
