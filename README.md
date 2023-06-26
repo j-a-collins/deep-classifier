@@ -19,7 +19,7 @@ The model is built using Fastai and then deployed as a Gradio app. To use the cl
 
 ## Build the Model
 
-1. Open the `classifier.ipynb` notebook using Jupyter Notebook, JupyterLab, or your preferred notebook platform.
+1. Open the `cat-dog-toy-classifier.ipynb` notebook using Jupyter Notebook, JupyterLab, or your preferred notebook platform.
 
 2. Run the cells in the notebook to build the image classifier model. This will create the 'export.pkl' file containing the trained model.
 
